@@ -2,13 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="183ea9f2-04a4-4e69-acb5-c64ba1a1ff60" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/CleaningPostDelayed.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EasyContentValues.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EsyBundle.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Iteration.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OperatorOverloading.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TopLevelFunction.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Delegation.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Drawable.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExtensionFunction.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sequences.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/31DaysKotlin/InlineKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/31DaysKotlin/InlineKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/31DaysKotlin/META-INF/31DaysKotlin.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/31DaysKotlin/META-INF/31DaysKotlin.kotlin_module" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -20,42 +20,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="SealedClass.kt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/SealedClass.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" selection-start-line="3" selection-end-line="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Lazy.kt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Lazy.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" selection-start-line="3" selection-end-line="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="RequireAndCheck.kt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/RequireAndCheck.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" selection-start-line="8" selection-end-line="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Inline.kt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Inline.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="9" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="OperatorOverloading.kt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/OperatorOverloading.kt">
           <provider selected="true" editor-type-id="text-editor">
@@ -87,12 +51,12 @@
         <entry file="file://$PROJECT_DIR$/src/EasyContentValues.kt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="150">
-              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+              <caret line="10" selection-start-line="10" selection-end-line="10" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CleaningPostDelayed.kt" pinned="false" current-in-tab="true">
+      <file leaf-file-name="CleaningPostDelayed.kt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/CleaningPostDelayed.kt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="105">
@@ -100,6 +64,45 @@
               <folding>
                 <element signature="e#0#83#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Delegation.kt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Delegation.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="495">
+              <caret line="36" column="57" selection-start-line="36" selection-start-column="57" selection-end-line="36" selection-end-column="57" />
+              <folding>
+                <element signature="e#0#66#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ExtensionFunction.kt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ExtensionFunction.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" selection-start-line="3" selection-end-line="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Drawable.kt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Drawable.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" selection-start-line="3" selection-end-line="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Sequences.kt" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Sequences.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="315">
+              <caret line="21" column="16" selection-start-line="21" selection-start-column="16" selection-end-line="21" selection-end-column="16" />
             </state>
           </provider>
         </entry>
@@ -165,6 +168,10 @@
         <option value="$PROJECT_DIR$/src/EsyBundle.kt" />
         <option value="$PROJECT_DIR$/src/EasyContentValues.kt" />
         <option value="$PROJECT_DIR$/src/CleaningPostDelayed.kt" />
+        <option value="$PROJECT_DIR$/src/Delegation.kt" />
+        <option value="$PROJECT_DIR$/src/ExtensionFunction.kt" />
+        <option value="$PROJECT_DIR$/src/Drawable.kt" />
+        <option value="$PROJECT_DIR$/src/Sequences.kt" />
       </list>
     </option>
   </component>
@@ -178,9 +185,9 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1866" />
-    <option name="y" value="44" />
-    <option name="width" value="808" />
+    <option name="x" value="1745" />
+    <option name="y" value="34" />
+    <option name="width" value="1615" />
     <option name="height" value="1026" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -189,6 +196,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -214,15 +222,14 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
-      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/Kotlin" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -247,7 +254,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.InlineKt">
+  <component name="RunManager" selected="Kotlin.SequencesKt">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -267,14 +274,14 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="DestructuringDeclarationsKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="DelegationKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="31DaysKotlin" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="DestructuringDeclarationsKt" />
+      <option name="MAIN_CLASS_NAME" value="DelegationKt" />
       <option name="WORKING_DIRECTORY" />
     </configuration>
     <configuration name="InlineKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
@@ -307,14 +314,14 @@
       <option name="MAIN_CLASS_NAME" value="PropertiesKt" />
       <option name="WORKING_DIRECTORY" />
     </configuration>
-    <configuration name="WhenExpressionKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="SequencesKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="31DaysKotlin" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="WhenExpressionKt" />
+      <option name="MAIN_CLASS_NAME" value="SequencesKt" />
       <option name="WORKING_DIRECTORY" />
     </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
@@ -340,19 +347,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Kotlin.DestructuringDeclarationsKt" />
-      <item itemvalue="Kotlin.WhenExpressionKt" />
       <item itemvalue="Kotlin.LoopsKt" />
       <item itemvalue="Kotlin.PropertiesKt" />
       <item itemvalue="Kotlin.InlineKt" />
+      <item itemvalue="Kotlin.DelegationKt" />
+      <item itemvalue="Kotlin.SequencesKt" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.SequencesKt" />
+        <item itemvalue="Kotlin.DelegationKt" />
         <item itemvalue="Kotlin.InlineKt" />
         <item itemvalue="Kotlin.PropertiesKt" />
         <item itemvalue="Kotlin.LoopsKt" />
-        <item itemvalue="Kotlin.WhenExpressionKt" />
-        <item itemvalue="Kotlin.DestructuringDeclarationsKt" />
       </list>
     </recent_temporary>
   </component>
@@ -367,27 +374,28 @@
       <option name="presentableId" value="Default" />
       <updated>1526881395880</updated>
       <workItem from="1526881398780" duration="47000" />
-      <workItem from="1526881821393" duration="10084000" />
+      <workItem from="1526881821393" duration="10455000" />
+      <workItem from="1527071625511" duration="1492000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10131000" />
+    <option name="totallyTimeSpent" value="11994000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1745" y="-4" width="1615" height="1054" extended-state="6" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" weight="0.32875264" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.32875264" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.320296" />
       <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.320296" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
@@ -397,8 +405,8 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
       <window_info anchor="right" id="Theme Preview" order="3" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -419,6 +427,79 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/SealedClass.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" selection-start-line="3" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Lazy.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" selection-start-line="3" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/RequireAndCheck.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" selection-start-line="8" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Inline.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="9" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/OperatorOverloading.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" selection-start-line="9" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TopLevelFunction.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="20" selection-start-line="1" selection-start-column="20" selection-end-line="1" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Iteration.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="2" selection-start-line="2" selection-end-line="8" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/EasyContentValues.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/EsyBundle.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" selection-start-line="3" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CleaningPostDelayed.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="7" selection-start-line="6" selection-end-line="14" />
+          <folding>
+            <element signature="e#0#83#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/ElvisOperator.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -426,13 +507,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/java/hhh.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java/hhh.kt" />
     <entry file="file://$PROJECT_DIR$/src/ElvisOperator.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
@@ -482,9 +557,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Visibility.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
@@ -492,13 +564,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/SealedClass.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SealedClass.java" />
     <entry file="file://$PROJECT_DIR$/src/DefaultArguments.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
@@ -572,7 +638,7 @@
     <entry file="file://$PROJECT_DIR$/src/EasyContentValues.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
         </state>
       </provider>
     </entry>
@@ -583,6 +649,37 @@
           <folding>
             <element signature="e#0#83#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Delegation.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="36" column="57" selection-start-line="36" selection-start-column="57" selection-end-line="36" selection-end-column="57" />
+          <folding>
+            <element signature="e#0#66#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ExtensionFunction.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" selection-start-line="3" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Drawable.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" selection-start-line="3" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Sequences.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="16" selection-start-line="21" selection-start-column="16" selection-end-line="21" selection-end-column="16" />
         </state>
       </provider>
     </entry>
